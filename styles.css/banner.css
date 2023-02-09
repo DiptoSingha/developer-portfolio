@@ -249,7 +249,7 @@ main {
         
     }
     .title{
-        margin-left: 0px;
+        margin-left: 5px;
         display: inline;
        
     }
@@ -270,7 +270,7 @@ main {
         margin-left: 5px;
     }
     .nav-title{
-        margin-left: 2px;
+        margin-left: 5px;
     }
 }
 
